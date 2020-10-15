@@ -1,0 +1,6 @@
+Bundle-Name: ${project.name}
+Bundle-Version: ${project.version}
+Bundle-SymbolicName: ${project.groupId}.${project.artifactId}
+Bundle-DocURL: ${project.url}
+
+Export-Package: life.qbic.example.osgi.library

@@ -1,5 +1,16 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+
 # Compiled class file
 *.class
+
+# Some of our applications generate logs, which should be ignored by git
+logs/
 
 # Log file
 *.log

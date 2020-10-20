@@ -1,0 +1,19 @@
+qube_version: '2.5.1 # <<QUBE_NO_BUMP>>'
+full_name: Jennifer Bödker
+email: jennifer.boedker@qbic.uni-tuebingen.de
+project_name: example-osgi-library
+project_short_description: example-osgi-library. A qube based .
+version: 1.0.0
+domain: lib
+language: java
+project_slug: example-osgi-library
+project_slug_no_hyphen: example_osgi_library
+template_version: '1.0.4 # <<QUBE_NO_BUMP>>'
+template_handle: lib-java
+github_username: jenniferboedker
+creator_github_username: jenniferboedker
+is_github_repo: false
+is_repo_private: false
+is_github_orga: false
+copyright_holder: QBiC
+license: MIT

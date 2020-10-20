@@ -3,6 +3,6 @@ Bundle-Version: ${project.version}
 Bundle-SymbolicName: ${project.groupId}.${project.artifactId}
 Bundle-DocURL: ${project.url}
 
-Bundle-Activator: life.qbic.example.osgi.library.Activator
+Bundle-Activator: life.qbic.example.Activator
 
-Export-Package: life.qbic.example.osgi.library
+Export-Package: life.qbic.example

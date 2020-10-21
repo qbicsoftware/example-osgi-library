@@ -4,11 +4,11 @@ import org.osgi.framework.BundleActivator
 import org.osgi.framework.BundleContext
 
 /**
- * <class short description - One Line!>
+ * Activator of the bundle
  *
- * <More detailed description - When to use, what it solves, etc.>
+ * This class is the entry point of the OSGi bundle and implements the {@link BundleActivator}
  *
- * @since: <versiontag>
+ * @since: 1.0.0
  *
  */
 class Activator implements BundleActivator{

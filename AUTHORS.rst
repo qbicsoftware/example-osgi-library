@@ -10,4 +10,5 @@ Development Lead
 Contributors
 ------------
 
-None yet. Why not be the first?
+* Jannis Hochmuth <jannis.hochmuth@computational.bio.uni-giessen.de>
+* Jennifer Bödker <jennifer.boedker@qbic.uni-tuebingen.de>
